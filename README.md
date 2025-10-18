@@ -1,7 +1,7 @@
 [
   {
-    "id": "O2YWZY6YUP-1C8KCPHSAX-K70FBJNMDC-1",
-    "idai": AIMD68LC2-AIPBDH8C1",
-    "price": "4900 теңге"
+    "id": "O2YWZY6YUP-M269I2S3JD-K70FBJNMDC-1",
+    "idai": AI7GD42C0-AIPBDH8C1",
+    "price": "10 900 теңге"
   }
 ]
