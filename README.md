@@ -4,6 +4,6 @@
     "idai": AI7GD42C0-AIPBDH8C1",
     "price": "10 500 теңге",
     "sale": "-30%",
-    "saletime": "."
+    "saletime": "2025-11-25 18:44:00"
   }
 ]
