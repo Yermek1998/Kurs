@@ -1,7 +1,7 @@
 [
   {
     "id": "O2YWZY6YUP-M269I2S3JD-K70FBJNMDC-1",
-    "ai": "on",
+    "ai": "off",
     "idai": AIN18SNC2-AIPBDH8C1",
     "price": "12 000 теңге",
     "sale": "-70%",
